@@ -17,3 +17,23 @@ Uses cases for API and its concepts
   * Send messages
 
 Django -- Using built-in class based views
+
+Basically what API does is that it makes it easier to build softwares
+
+What are Web Resources: 
+  * Data
+  * Documents
+  * Audio
+  * Images
+  * Videos
+
+JSON, XML, HTML through the web through these specifies data types
+
+URL & URI:
+  * Uniform Resource Locator: More general
+  * Uniform Resource Identifier: More specific. A link to ny given web resource, where does an audio file exists, the link to it. Also a URI can be referred to as URLs and API Endpoints
+
+
+
+
+
