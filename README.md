@@ -63,3 +63,25 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
 | Node.js | React |
 | Ruby on Rails |. iOS |
 | PHP | Android |
+
+
+
+Benefits of RESTAPI
+  * Scalability
+  * Server to Server
+  * Multiple Client-side Tech
+  * Internet of things
+  * Microservices
+  * Rapid Development
+
+
+
+
+
+
+
+
+
+
+
+
