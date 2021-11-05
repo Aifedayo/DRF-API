@@ -4,3 +4,6 @@ This first part is really an overview of concepts that build up what an API is h
 Application Programming Interface are not just for the web.
 
 In fact they have all sorts of applications across various areas.
+
+The fundamental definition of API is a method of communication between software components.
+GUI simplifies using programs while an API simplifies making them
