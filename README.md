@@ -34,6 +34,14 @@ URL & URI:
   * Uniform Resource Identifier: More specific. A link to ny given web resource, where does an audio file exists, the link to it. Also a URI can be referred to as URLs and API Endpoints
 
 
+HTTP Protocol Methods:
+  * POST (create)
+  * PUT (update)
+  * GET (retrieve)
+  * DELETE (delete)
+
+Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retrieve - Update - Delete
+
 
 
 
