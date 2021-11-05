@@ -7,3 +7,11 @@ In fact they have all sorts of applications across various areas.
 
 The fundamental definition of API is a method of communication between software components.
 GUI simplifies using programs while an API simplifies making them
+
+Uses cases for API and its concepts 
+  * Run a process or routine
+  * Use Hardware
+  * Use Third Party Assets
+  * Internal Data and external date
+  * Activate sensors
+  * Send messages
