@@ -15,3 +15,5 @@ Uses cases for API and its concepts
   * Internal Data and external date
   * Activate sensors
   * Send messages
+
+Django -- Using built-in class based views
