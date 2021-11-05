@@ -1,4 +1,4 @@
-# DRF-API
+# Django Rest Framework API
 Building a solid RESTAPI service following Udemy Course.
 This first part is really an overview of concepts that build up what an API is how we're going to use it.
 Application Programming Interface are not just for the web.
