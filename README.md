@@ -42,6 +42,19 @@ HTTP Protocol Methods:
 
 Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retrieve - Update - Delete
 
+**Client Consumes REST APIs**
+
+
+**HTTP GET (retrieve)**: _Requests are sent to server through a URI and the server does some lookup and returns a response in JSON data and the client-side parses the response and presents data_
+
+
+**HTTP POST (create):** _Devices sends request to the server side and returns a response asa JSON Data and client-side parses data and presents data_
+
+
+**HTTP PUT (update):** _Same as the create, retrieve_
+
+
+**HTTP DELETE (delete):** _Same as the above but with different method_
 
 
 
