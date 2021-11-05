@@ -57,4 +57,6 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
 **HTTP DELETE (delete):** _Same as the above but with different method_
 
 
-
+| Server-side Tech | Client-side Tech |
+| ---------------- | ---------------- |
+| Python/Django    | Angular.         |
