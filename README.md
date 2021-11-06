@@ -63,7 +63,6 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
 | Node.js | React |
 | Ruby on Rails |. iOS |
 | PHP | Android |
-
 |- | Vue |
 
 
