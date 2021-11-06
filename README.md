@@ -16,7 +16,7 @@ Uses cases for API and its concepts
   * Activate sensors
   * Send messages
 
-Django -- Using built-in class based views
+`Django -- Using built-in class based views`
 
 Basically what API does is that it makes it easier to build softwares
 
