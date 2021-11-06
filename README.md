@@ -27,7 +27,7 @@ What are Web Resources:
   * Images
   * Videos
 
-JSON, XML, HTML through the web through these specifies data types
+`JSON, XML, HTML` through the web through these specifies data types
 
 URL & URI:
   * Uniform Resource Locator: More general
