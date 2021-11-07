@@ -1,4 +1,4 @@
-# Django Rest Framework API
+# Django Rest Framework API Introduction and API Basics
 Building a solid RESTAPI service following Udemy Course.
 This first part is really an overview of concepts that build up what an API is how we're going to use it.
 Application Programming Interface are not just for the web.
@@ -16,7 +16,7 @@ Uses cases for API and its concepts
   * Activate sensors
   * Send messages
 
-Django -- Using built-in class based views
+`Django -- Using built-in class based views`
 
 Basically what API does is that it makes it easier to build softwares
 
@@ -27,7 +27,7 @@ What are Web Resources:
   * Images
   * Videos
 
-JSON, XML, HTML through the web through these specifies data types
+`JSON, XML, HTML` through the web through these specifies data types
 
 URL & URI:
   * Uniform Resource Locator: More general
@@ -57,22 +57,29 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
 **HTTP DELETE (delete):** _Same as the above but with different method_
 
 
-| **Server-side Tech | Client-side Tech** |
+| **Server-side Tech** | **Client-side Tech** |
 | ---------------- | ---------------- |
 | Python/Django    | Angular.         |
 | Node.js | React |
 | Ruby on Rails |. iOS |
 | PHP | Android |
+|- | Vue |
 
 
 
-Benefits of RESTAPI
+
+`Benefits of RESTAPI`
   * Scalability
   * Server to Server
   * Multiple Client-side Tech
   * Internet of things
   * Microservices
   * Rapid Development
+
+
+**Continution**
+
+JSON : JavaScript Object Notation. 
 
 
 
