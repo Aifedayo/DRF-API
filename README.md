@@ -77,6 +77,11 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
   * Rapid Development
 
 
+**Continution**
+
+JSON : JavaScript Object Notation. 
+
+
 
 
 
