@@ -41,6 +41,8 @@ HTTP Protocol Methods:
   * PUT (update)
   * GET (retrieve)
   * DELETE (delete)
+  * PATCH (Updates individual field records)
+  * UPDATE
 
 Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retrieve - Update - Delete
 
