@@ -2,8 +2,10 @@
 Building a solid RESTAPI service following Udemy Course.
 This first part is really an overview of concepts that build up what an API is how we're going to use it.
 Application Programming Interface are not just for the web.
-
+RESTAPI is a standardized way to provide data to other applications and the applications are free to use them however they want.
 In fact they have all sorts of applications across various areas.
+
+It is a window to the Database.
 
 The fundamental definition of API is a method of communication between software components.
 GUI simplifies using programs while an API simplifies making them
@@ -56,6 +58,8 @@ Softwares are designed in the ideas of CRUD (pronounced as crod): Create - Retri
 
 **HTTP DELETE (delete):** _Same as the above but with different method_
 
+
+The process of querying and converting tabular database values into JSON is known as `Serialization`
 
 | **Server-side Tech** | **Client-side Tech** |
 | ---------------- | ---------------- |
