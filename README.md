@@ -1,6 +1,6 @@
 # Django Rest Framework API Introduction and API Basics
 Building a solid RESTAPI service following Udemy Course.
-This first part is really an overview of concepts that build up what an API is how we're going to use it.
+This first part is really an overview of concepts that build up what an API is and how we're going to use it.
 Application Programming Interface are not just for the web.
 RESTAPI is a standardized way to provide data to other applications and the applications are free to use them however they want.
 In fact they have all sorts of applications across various areas.
